@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "firebase-admin": "^13.0.2",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.2",
+    "pg": "^8.13.1"
+  }
+}
