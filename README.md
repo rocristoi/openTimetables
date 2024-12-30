@@ -2,7 +2,7 @@
 
 Open Timetables is an open-source solution to address a common challenge faced by schools - creating timetables. Unlike proprietary software such as ASC Timetables, Open Timetables is entirely free, making it an accessible option for schools operating with limited budgets. It is specifically designed for institutions from Central and Eastern Europe where students remain in one classroom while teachers rotate between classes.
 
-## Web Application
+### Web Application
 You may access the live web aplication at [open-timetables.tech](https://open-timetables.tech)
 
 ### Key Advantages
